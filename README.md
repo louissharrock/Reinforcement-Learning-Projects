@@ -6,6 +6,13 @@ This repository contains code implementing examples from:
 
 To use this code:
 
+### Download
+
+Clone the repository
+
+    git clone https://github.com/louissharrock/Reinforcement-Learning
+
+
 ### Install 
 
 Install a virtual environment
