@@ -6,7 +6,7 @@ This repository contains code implementing examples from:
 
 To use this code:
 
-# Install gym-gridworld
+### Install gym-gridworld
 
 Install a virtual environment
 
