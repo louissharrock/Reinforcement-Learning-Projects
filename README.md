@@ -6,7 +6,7 @@ This repository contains code implementing examples from:
 
 To use this code:
 
-### Install gym-gridworld
+### Install 
 
 Install a virtual environment
 
@@ -14,5 +14,12 @@ Install a virtual environment
     conda env create -f environment.yml
     conda activate venv
     pip install -e .
+    
+
+### Basic Functions
+    
+    import gym
+    import gym_gridworld
+    env = gym.make('GridWorld-v0')
 
     
